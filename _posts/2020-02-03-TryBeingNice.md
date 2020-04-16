@@ -1,0 +1,3 @@
+There are nice tutorials for them...
+Oh, I should spend time for it.
+Habits, clothes, mental state..

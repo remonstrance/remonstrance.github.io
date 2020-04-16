@@ -1,0 +1,4 @@
+Community
+Academic
+Company
+Power
