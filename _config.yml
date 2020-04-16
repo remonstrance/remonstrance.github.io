@@ -1,0 +1,21 @@
+title: Bubbles   # your title
+author: Bubbles # your name
+description: A dark and complete fool in the fantastic and big world! 
+avatar: /images/avatar.png # change avatar
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+gems: [jekyll-paginate]
+
+# Comments
+# disqus:
+#   shortname: xxxx-xxxxx-xxx   # your disqus shortname
+
+# Google Analytics
+# google_analytics: xx-xxxxxxxx-1  # your google analytics
+
